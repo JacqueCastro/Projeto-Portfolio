@@ -1,5 +1,3 @@
-# Portfólio Maratona Programação
-
 ## Estrutura do projeto
 
 - README.md
